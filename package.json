@@ -1,0 +1,17 @@
+{        
+    "name": "theme-mytheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": ">1.22"
+    },
+    "publisher": "me",
+   "contributes": {
+        "themes": [
+            {
+                "label": "My Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mytheme.json"
+            }
+        ]
+    }
+}
