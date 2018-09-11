@@ -212,7 +212,7 @@
 
 
 		/*Peek View Colors*/
-		"peekView.border": "#838383",
+		"peekView.border": "#0E639C",
 		"peekViewEditor.background": "#414141",
 		"peekViewEditorGutter.background": "#414141",
 		"peekViewEditor.matchHighlightBackground": "#854725",
@@ -222,7 +222,7 @@
 		"peekViewResult.matchHighlightBackground": "#854725",
 		"peekViewResult.selectionBackground": "#474747",
 		"peekViewResult.selectionForeground": "#E8E8E8",
-		"peekViewTitle.background": "#838383",
+		"peekViewTitle.background": "#0E639C",
 		"peekViewTitleDescription.foreground": "#E8E8E8",
 		"peekViewTitleLabel.foreground": "#E8E8E8",
 
@@ -383,7 +383,7 @@
 			"name": "Variable js",
 			"scope": "support.variable.property.js, support.variable.property.dom.js, entity.name.function.js",
 			"settings": {
-				"foreground": "#DCDCAA"//DCDCAA
+				"foreground": "#d4d4d4"//DCDCAA
 			}
 		},
 		{
