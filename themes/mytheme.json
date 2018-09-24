@@ -324,7 +324,7 @@
 		/*Git Colors*/
 		"gitDecoration.modifiedResourceForeground":"#e5cb91",
 		"gitDecoration.deletedResourceForeground":"#F77E4A",
-		"gitDecoration.untrackedResourceForeground":"#c7e67f",
+		"gitDecoration.untrackedResourceForeground":"#9ac23c",
 		"gitDecoration.ignoredResourceForeground":"#94b9e6",
 		"gitDecoration.conflictingResourceForeground":"#c591e0"
 	},
