@@ -83,6 +83,7 @@
 		"activityBar.background": "#323232",
 		"activityBar.dropBackground": "#707070",
 		"activityBar.foreground": "#BEBEBE",
+		"activityBar.inactiveForeground":"#868686",
 		"activityBar.border": "#323232",
 		"activityBarBadge.background": "#a51919",
 		"activityBarBadge.foreground": "#ffffff",
@@ -96,6 +97,7 @@
 		"sideBarTitle.foreground":"#BEBEBE",
 		"sideBarSectionHeader.background":"#323232",
 		"sideBarSectionHeader.foreground":"#BEBEBE",
+		"sideBarSectionHeader.border":"#00000000",
 
 
 		/*Editor Groups & Tabs*/
