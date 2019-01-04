@@ -1,18 +1,8 @@
 # My theme
 
-## Description
-My theme
+Попытка написать тему под себя.
 
-## Supported Languages:
-My theme
-
-
-
-## Please be informed
-My theme
-
-## Issues, Advice and Requests
-My theme
+Пока тольео тёмный вариант. Но в планах ещё и серый.
 
 ---
- Thanks for give the Theme a try!
+Возможно, что-нибудь получится...
